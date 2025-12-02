@@ -86,6 +86,9 @@ return 0;
 
 
 ## OUTPUT
+
+![Alt text](img/2.png)
+
 ![Alt text](img/1.png)
 
 
